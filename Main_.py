@@ -19,9 +19,9 @@
  19 # 'Teff', 'logg', '[M/H]', '[a/H]', 'V'   ---> XXX6 to XXXn = colours ... / Standard input ...
  20 
  21 system_filt  = {
- 22 'Johnson_2MASS'        : ['U-B', 'B-V', 'V-R', 'V-I', 'V-K', 'R-I', 'I-K', 'J-H', 'H-K', 'J-K'],   # System: Johnson + 2MASS
- 23 'SDSS_2MASS_SPITZER'   : 'in construction',                                                        # System: SDSS + 2MASS + SPITZER 
- 24 'MEGCAM_WIRCAM_SPITZER': 'in construction'                                                         # System: MEGACAM + WIRCAM + SPITZER
+ 22 'Johnson_2MASS'        : ['U-B', 'B-V', 'V-R', 'V-I', 'V-K', 'R-I', 'I-K', 'J-H', 'H-K', 'J-K'],  # System: Johnson + 2MASS
+ 23 'SDSS_2MASS_SPITZER'   : [ 'u', 'g', 'r', 'i', 'z', 'J', 'H', 'K', 'u-g', 'g-r', 'r-i', 'i-z', 'J-H', 'J-K', 'H-K', 'K-[3.6]', 'K-[4.5]', 'K-[5.8]', 'K-[8.0]', 'K-[24]', 'K-[70]', 'K-[160]'],  # System: SDSS + 2MASS + SPITZER
+ 24 'MEGCAM_WIRCAM_SPITZER': [in preparation --- 08, November 2015]                                                         # System: MEGACAM + WIRCAM + SPITZER
  25 }
  26 
  27 BTSettlmodel_ = { 'BJ2MASS':'BTSettlmodel_Johnson_2MASS.dat', 'BSJ2MASSSP':'BTSettlmodel_SDSS_Johnson_2MASS_SPITZER.dat'  }
