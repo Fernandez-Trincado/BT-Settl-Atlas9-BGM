@@ -1,4 +1,6 @@
-# BT-Settl-Atlas9-BGM
+BT-Settl-Atlas9-BGM
+===================
+
 
 Since Very Low Mass Stars, Brown Dwarfs, and Extrasolar Planets to Giant stars. 
 
