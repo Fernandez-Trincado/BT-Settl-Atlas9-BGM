@@ -11,7 +11,7 @@ BT-Settl model + Atlas9 model + BGM star count model: Very Low Mass Stars, Brown
  
 Description:
 
-In preparations ...
+In preparation ...
 
 Contact: jfernandez(at)obs-besancon.fr
 
