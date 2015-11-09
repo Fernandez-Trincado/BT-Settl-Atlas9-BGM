@@ -18,4 +18,5 @@ Contact: jfernandez(at)obs-besancon.fr
 
 Acknowledgements.
 
-J.G.F-T is currently supported by Centre National d’Etudes Spatiales (CNES) through PhD grant 0101973 and the Région de Franche- Comté and by the French Programme National de Cosmologie et Galaxies (PNCG).
+J.G.F-T is currently supported by Centre National d’Etudes Spatiales (CNES) through PhD grant 0101973 and the Région de Franche- Comté and by the French Programme National de Cosmologie et Galaxies (PNCG).Besan\c{c}on Galaxy model simulations were executed on computers from the UTINAM Institute of the Universit\'e de Franche-Comte, 
+supported by the R\'egion de Franche-Comt\'e and Institut des Sciences de l'Univers (INSU). Monte Carlo simulations were executed on computers from the Instituto de Astronom\'ia-UNAM, M\'exico.
