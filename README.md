@@ -15,3 +15,7 @@ In preparation ...
 
 Contact: jfernandez(at)obs-besancon.fr
 
+
+Acknowledgements.
+
+J.G.F-T is currently supported by Centre National d’Etudes Spatiales (CNES) through PhD grant 0101973 and the Région de Franche- Comté and by the French Programme National de Cosmologie et Galaxies (PNCG).
