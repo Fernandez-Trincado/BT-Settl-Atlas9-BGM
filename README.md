@@ -1,9 +1,6 @@
 BT-Settl model + Atlas9 model + BGM star count model: Very Low Mass Stars, Brown Dwarfs, and Extrasolar Planets to Giant stars. 
 ===============================================================================================================================
 
-
-
-
  For more information 
  
  [1] Besancon Galaxy model: http://model.obs-besancon.fr/
@@ -12,3 +9,8 @@ BT-Settl model + Atlas9 model + BGM star count model: Very Low Mass Stars, Brown
  
  [3] Atlas9 model: http://www.oact.inaf.it/castelli/castelli/
  
+
+
+
+Contact: jfernandez(at)obs-besancon.fr
+
