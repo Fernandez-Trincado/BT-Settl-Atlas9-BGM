@@ -1,5 +1,5 @@
-BT-Settl model + Atlas9 model + BGM star count model: Very Low Mass Stars, Brown Dwarfs, and Extrasolar Planets to Giant stars. 
-===============================================================================================================================
+BT-Settl model + Atlas9 model + BGM 
+====================================
 
  For more information 
  
