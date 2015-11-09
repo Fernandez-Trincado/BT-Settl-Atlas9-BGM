@@ -9,8 +9,9 @@ BT-Settl model + Atlas9 model + BGM star count model: Very Low Mass Stars, Brown
  
  [3] Atlas9 model: http://www.oact.inaf.it/castelli/castelli/
  
+Description:
 
-
+In preparations ...
 
 Contact: jfernandez(at)obs-besancon.fr
 
