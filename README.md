@@ -13,7 +13,7 @@ BT-Settl model + Atlas9 model + BGM
     Instruction to Decript & Decompress "filters.tar.gpg":  gpg -d filters.tar.gpg  
     Instruction to Compress & Encript "filters.tar.gpg"  :  gpg -c filters.tar
 
-You need a password to get access to "filters.tar.gpg". Please contact us: jfernandez(at)obs-besancon.fr
+You need a password to get access to "filters.tar.gpg" and "Original_grid.tar.gpg". Please contact to: jfernandez(at)obs-besancon.fr
 
 Description:
 
