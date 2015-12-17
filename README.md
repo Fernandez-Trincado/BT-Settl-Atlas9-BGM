@@ -8,9 +8,9 @@ MaincoloursPy.py
 
  For more information regarding to atmosphere models, it is available at:
  
- [1] [BT-Settl model](http://perso.ens-lyon.fr/france.allard/) 
+* [BT-Settl model](http://perso.ens-lyon.fr/france.allard/) 
  
- [2] [Atlas9 model](http://www.oact.inaf.it/castelli/castelli/) 
+* [Atlas9 model](http://www.oact.inaf.it/castelli/castelli/) 
  
 
     Instruction to Decript & Decompress "filters.tar.gpg":  gpg -d filters.tar.gpg  
