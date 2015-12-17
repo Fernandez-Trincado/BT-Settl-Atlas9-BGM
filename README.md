@@ -11,7 +11,7 @@ MaincoloursPy.py
  
 * [Atlas9 model](http://www.oact.inaf.it/castelli/castelli/) 
  
-How to install [MaincoloursPy.py](https://github.com/Fernandez-Trincado/BT-Settl-Atlas9-BGM/blob/master/MaincoloursPy.py):
+How to run [MaincoloursPy.py](https://github.com/Fernandez-Trincado/BT-Settl-Atlas9-BGM/blob/master/MaincoloursPy.py):
 ---
 
 * To run the program, type  ./MaincoloursPy.py or python MaincoloursPy.py 
