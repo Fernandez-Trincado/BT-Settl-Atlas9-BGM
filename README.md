@@ -48,3 +48,5 @@ Acknowledgments
 ---
 
 [MaincoloursPy.py](https://github.com/Fernandez-Trincado/BT-Settl-Atlas9-BGM/blob/master/MaincoloursPy.py) is executed on computers from the UTINAM Institute of the Université de Franche-Comte, supported by the Région de Franche-Comté and Institut des Sciences de l’Univers (INSU). 
+
+Last update 12/18/2015
