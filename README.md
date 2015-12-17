@@ -20,7 +20,16 @@ System requirements:
 ---
 
 * Linux, MAC, etc.
-* MaincoloursPy.py work under any version of Python
+* [MaincoloursPy.py](https://github.com/Fernandez-Trincado/BT-Settl-Atlas9-BGM/blob/master/MaincoloursPy.py) work under any version of Python
+
+Output:
+-----
+
+In preparation ...
+
+
+Results:
+---
 
 You need a password to get access to "filters.tar.gpg" and "Original_grid.tar.gpg". Please contact to: jfernandez(at)obs-besancon.fr
 
