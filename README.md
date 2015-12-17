@@ -21,7 +21,7 @@ In preparation ...
 System requirements:
 ---
 
-* Linux, MAC, ect.
+* Linux, MAC, etc.
 * Python any version
 * MaincoloursPy.py work under any version of Python
 
