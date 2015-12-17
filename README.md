@@ -12,6 +12,9 @@ MaincoloursPy.py
  
 * [Atlas9 model](http://www.oact.inaf.it/castelli/castelli/) 
  
+Instructions:
+---
+In preparation ...
 
 
 You need a password to get access to "filters.tar.gpg" and "Original_grid.tar.gpg". Please contact to: jfernandez(at)obs-besancon.fr
