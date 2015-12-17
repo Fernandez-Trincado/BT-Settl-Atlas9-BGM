@@ -3,7 +3,7 @@ MaincoloursPy.py
 
 
 
-[MaincoloursPy.py](https://github.com/Fernandez-Trincado/BT-Settl-Atlas9-BGM/blob/master/MaincoloursPy.py) is a code that performs a variety of colour combinations between differents filter system from several different atmosphere models available (i.e., BT-Settl, Atlas, etc). If you have trouble grabbing or decoding the code please email me at jfernandez@obs-besancon.fr or jfernandezt87@gmail.com
+[MaincoloursPy.py](https://github.com/Fernandez-Trincado/BT-Settl-Atlas9-BGM/blob/master/MaincoloursPy.py) is a code that performs a variety of colour combinations between different filter systems from several different atmosphere models available (i.e., BT-Settl, Atlas, etc). If you have trouble grabbing or decoding the code please email me at jfernandez@obs-besancon.fr or jfernandezt87@gmail.com
 
 
  For more information regarding to atmosphere models, it is available at:
