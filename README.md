@@ -38,5 +38,9 @@ You need a password to get access to "filters.tar.gpg" and "Original_grid.tar.gp
      Instruction to Decript & Decompress "filters.tar.gpg":  gpg -d filters.tar.gpg  
      Instruction to Compress & Encript "filters.tar.gpg"  :  gpg -c filters.tar
 
+Examples:
+----
+
+In preparation ...
 
 
