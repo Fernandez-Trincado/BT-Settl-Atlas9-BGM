@@ -16,6 +16,14 @@ Instructions:
 ---
 In preparation ...
 
+* To run the program, type  ./MaincoloursPy.py or python MaincoloursPy.py 
+
+System requirements:
+---
+
+* Linux, MAC, ect.
+* Python any version
+* MaincoloursPy.py work under any version of Python
 
 You need a password to get access to "filters.tar.gpg" and "Original_grid.tar.gpg". Please contact to: jfernandez(at)obs-besancon.fr
 
