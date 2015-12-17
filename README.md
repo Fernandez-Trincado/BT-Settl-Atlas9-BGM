@@ -14,7 +14,6 @@ MaincoloursPy.py
  
 Instructions:
 ---
-In preparation ...
 
 * To run the program, type  ./MaincoloursPy.py or python MaincoloursPy.py 
 
