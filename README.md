@@ -1,13 +1,17 @@
-BT-Settl model + Atlas9 model + BGM 
-====================================
+MaincoloursPy.py
+================
 
- For more information 
+
+
+
+"MaincoloursPy.py" is a code that performs a variety of colour combinations between differents filter system from several different atmosphere models available (i.e., BT-Settl, Atlas, etc). If you have trouble grabbing or decoding the code please email me at jfernandez@obs-besancon.fr or jfernandezt87@gmail.com
+
+
+ For more information regarding to atmosphere models, it is available at:
  
- [1] Besancon Galaxy model: http://model.obs-besancon.fr/
+ [1] BTSettl model: http://perso.ens-lyon.fr/france.allard/ 
  
- [2] BTSettl model: http://perso.ens-lyon.fr/france.allard/ 
- 
- [3] Atlas9 model: http://www.oact.inaf.it/castelli/castelli/
+ [2] Atlas9 model: http://www.oact.inaf.it/castelli/castelli/
  
 
     Instruction to Decript & Decompress "filters.tar.gpg":  gpg -d filters.tar.gpg  
@@ -15,8 +19,8 @@ BT-Settl model + Atlas9 model + BGM
 
 You need a password to get access to "filters.tar.gpg" and "Original_grid.tar.gpg". Please contact to: jfernandez(at)obs-besancon.fr
 
-Description:
 
-In preparation ...
+
+
 
 
